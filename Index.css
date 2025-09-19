@@ -1,0 +1,26 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background-color: transparent;
+  font-family: sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: end;
+  height: 100vh;
+}
+
+.container{
+  padding-bottom: 5rem;
+}
+
+.title > .title-name{
+  color: #f00;
+}
+
+.legend{
+  font-weight: bold;
+}
